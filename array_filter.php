@@ -2,7 +2,6 @@
 
 require 'helpers.php';
 
-// array_filter function signature:
 // array_filter( array $array [, callable $callback [, int $flag = 0 ]]): array
 // It filters elements of an array using a callback function
 
